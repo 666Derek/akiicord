@@ -99,19 +99,19 @@ export function PluginCard({ plugin, disabled, onRestartNeeded, onMouseEnter, on
             condition: isModifiedPlugin,
             src: "https://www.blazefugazi.xyz/logo.png",
             alt: "Modified",
-            title: "Modified Vencord Plugin"
+            title: "FGZ Plugin"
         },
         {
             condition: isEquicordPlugin,
             src: "https://www.blazefugazi.xyz/logo.png",
             alt: "Equicord",
-            title: "Equicord Plugin"
+            title: "FGZ Plugin"
         },
         {
             condition: isVencordPlugin,
             src: "https://www.blazefugazi.xyz/logo.png",
             alt: "Vencord",
-            title: "Vencord Plugin"
+            title: "FGZ Plugin"
         },
         {
             condition: isUserPlugin,
